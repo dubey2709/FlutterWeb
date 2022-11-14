@@ -1,16 +1,47 @@
 # flutter_web
 
-A new Flutter project.
+A fully responsive flutter based web app<br>
+Author - [@dubey2709](https://github.com//dubey2709)
+## Tech Stack
 
-## Getting Started
+**Client:** Flutter, Dart
 
-This project is a starting point for a Flutter application.
+## Environment 
+VSCode or Android Studio
 
-A few resources to get you started if this is your first Flutter project:
+## Working
+https://drive.google.com/file/d/1NEY9tBsvxjeJlga93Ipv1QuOdMJYaI8E/view?usp=drivesdk 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Packages Used (pub.dev) :
+  cupertino_icons: ^1.0.2<br>
+  carousel_slider: ^4.1.1<br>
+  http:<br>
+  shared_preferences: ^2.0.15<br>
+  chewie: ^1.3.4<br>
+  video_player: ^2.4.7<br>
+## How to Run Locally?
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Clone the project
+
+```bash
+  git clone https://github.com/dubey2709/FlutterWeb.git
+```
+
+Go to your current project directory
+
+```bash
+  cd my-project
+```
+
+Install dependencies and run the command in the terminal
+
+```bash
+   flutter pub get
+```
+
+Start the application as a website
+
+```bash
+  flutter run -d chrome
+```
+
